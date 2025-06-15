@@ -44,15 +44,6 @@ cookie_extractor/
 
 ---
 
-## 📸 Screenshots
-| Extract Cookies | Edit Cookies |
-|-----------------|--------------|
-| ![Extract](screenshot_extract.png) | ![Edit](screenshot_edit.png) |
-
-*(You can add your own screenshots here.)*
-
----
-
 ## ⚙️ Permissions
 - `cookies` – To read and modify cookies.
 - `activeTab` and `tabs` – To get the URL of the current page.
