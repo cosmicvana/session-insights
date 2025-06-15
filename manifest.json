@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Session Cookie Extractor",
+  "version": "1.0",
+  "description": "Extract session cookies from the current website.",
+  "permissions": ["cookies", "activeTab", "tabs"],
+  "host_permissions": ["<all_urls>"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  }
+}
