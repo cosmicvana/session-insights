@@ -30,7 +30,7 @@ cookie_extractor/
 ## 🛠️ Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/cookie-extractor.git
+   git clone https://github.com/cosmicvana/session-insights.git
    ```
 2. Open **Google Chrome** and navigate to:
    ```
