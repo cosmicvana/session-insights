@@ -28,19 +28,15 @@ cookie_extractor/
 ---
 
 ## 🛠️ Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/cosmicvana/session-insights.git
-   ```
-2. Open **Google Chrome** and navigate to:
+1. Open **Google Chrome** and navigate to:
    ```
    chrome://extensions/
    ```
-3. Enable **Developer Mode**.
-4. Click **Load Unpacked** and select the project folder.
-5. Pin the extension to your toolbar.
-6. Visit any website where you are logged in.
-7. Click the extension icon and use the **Extract** and **Update** buttons.
+2. Enable **Developer Mode**.
+3. Click **Load Unpacked** and select the project folder.
+4. Pin the extension to your toolbar.
+5. Visit any website where you are logged in.
+6. Click the extension icon and use the **Extract** and **Update** buttons.
 
 ---
 
